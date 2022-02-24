@@ -250,10 +250,3 @@ def play_and_train_one_side(game_num):
 
 
 play_and_train_two_sides(int(1e6))
-
-
-# TODO
-# Actor-Critic algorithm
-# Proximal Policy Optimization
-# board position heuristics
-# MCTS or minimax player for training
